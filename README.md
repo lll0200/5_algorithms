@@ -7,4 +7,4 @@ cart
 knn
 c45
 框架是用tkinter搭建的
-演示视频：
+演示视频：https://www.bilibili.com/video/bv11y4y137nK
